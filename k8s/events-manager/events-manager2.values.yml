@@ -1,0 +1,4 @@
+deployment:
+  image: "damola12345/dockerhub"
+  tag: "myfirstimagepush"
+name: events-manager2
